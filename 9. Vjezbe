@@ -1,0 +1,1 @@
+InStr(1;[Products].[ProductName];' ')  - funkcija   (u field) kriterij(0)
